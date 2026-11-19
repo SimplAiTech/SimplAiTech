@@ -9,7 +9,7 @@
 </p>
 
 I build trading tools for MetaTrader 5 and then trade with them myself, live, in front of an audience.
-Every weekday at 8:20 New York time I stream gold (XAUUSD) on YouTube with my own indicator, **TUDAS**: real account, real entries, no edits.
+Every weekday at 8:20 New York time I stream gold (XAUUSD) on YouTube with my own indicator, **TUDAS**: every entry in real time, no edits.
 
 ### What I build
 - **Indicators and Expert Advisors for MT5** in MQL5, from the idea to a validated Market build.
