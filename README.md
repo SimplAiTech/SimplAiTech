@@ -2,6 +2,7 @@
 <p align="center"><b>MT5 / MQL5 trading systems developer · author of TUDAS · live gold trader</b></p>
 
 <p align="center">
+  <a href="https://simplaitech.github.io/"><img src="https://img.shields.io/badge/Website-simplaitech.github.io-C9A84C" alt="Website"></a>
   <a href="https://www.youtube.com/@tudasgold"><img src="https://img.shields.io/badge/YouTube-live%20gold%20trading%20weekdays%208:20%20NY-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.mql5.com/en/users/yevhenhladchenko/seller"><img src="https://img.shields.io/badge/MQL5%20Market-6%20products-1E73BE" alt="MQL5 Market"></a>
   <a href="https://simplaitech.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-source%20code-FF90E8?logo=gumroad&logoColor=black" alt="Gumroad"></a>
